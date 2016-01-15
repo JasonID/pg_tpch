@@ -8,16 +8,6 @@ Jason a qgen parts).
 
 Preparing Jason and qgen
 ------------------------
-<<<<<<< HEAD
-=======
-The first thing you need to do is to prepare the tool that generates
-data and queries. This step is more thoroughly explained at my blog at 
-
-    http://www.fuzzy.cz/en/articles/dss-tpc-h-benchmark-with-postgresql/
-
-but let's briefly repeat what needs to be done.
->>>>>>> ebf30349c0c73c82d883aa6d7126a64b8eb479b9
-
 First, download the TPC-H benchmark from http://tpc.org/tpch/default.asp
 and extract it to a directory
 
